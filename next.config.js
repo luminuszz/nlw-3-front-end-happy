@@ -11,9 +11,5 @@ module.exports = withPlugins([
     trailingSlash: true,
 
     reactStrictMode: true,
-
-    typescript: {
-      ignoreBuildErrors: true,
-    },
   },
 ])

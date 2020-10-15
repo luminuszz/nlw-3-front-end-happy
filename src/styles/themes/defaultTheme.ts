@@ -12,6 +12,7 @@ export default {
       gradientOne: '#29B6d1',
       gradientTwo: '#00c7c7',
       secondary: { main: '#ffd666', hover: '#96feff' },
+      tertiary: { main: '#15c3d6', hover: '#17d6eb' },
     },
   },
 

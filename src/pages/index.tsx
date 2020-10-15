@@ -19,7 +19,7 @@ const Home: NextPage = () => {
             <span>Bahia - BA</span>
           </Location>
 
-          <Link href="/">
+          <Link href="/orphanagesMap">
             <a>
               <FiArrowRight />
             </a>
